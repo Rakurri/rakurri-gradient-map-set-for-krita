@@ -1,21 +1,20 @@
 # rakurri-gradient-map-set-for-krita
-Free gradient map set for Krita!
+Free gradient map set for Krita 5!
 
 ***
 
-# **This is work in progress and do NOT WORK ON KRITA 4.x**
+# **This set only works in Krita 5!!**
 
 ***
 
 # **How to download and install**
 
 **Gumroad:**
-1. Go to this website: (Link coming soon)
-
+1. Go to this website: https://rakurri.gumroad.com/l/rakurrigradients
 2. Click the "I want this!"-button!
 
 **GitHub:**
-1. Download (File coming soon) and (File coming soon)!
+1. Download "Rakurri_Gradient_Map_Set_V1.0.bundle"!
 Here is a handy link: (Link coming soon)
 
 **Installation in Krita:**
