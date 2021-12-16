@@ -15,7 +15,7 @@ Free gradient map set for Krita 5!
 
 **GitHub:**
 1. Download "Rakurri_Gradient_Map_Set_V1.0.bundle"!
-Here is a handy link: (Link coming soon)
+Here is a handy link: https://github.com/Rakurri/rakurri-gradient-map-set-for-krita/releases/tag/V1.0
 
 **Installation in Krita:**
 1. Go to “Settings”
